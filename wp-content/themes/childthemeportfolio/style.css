@@ -1,0 +1,25 @@
+/*
+ Theme Name:   portfoliosigne
+ Theme URI:    http://localhost/portfoliosigne/
+ Description:  Signe Portfilio Child Theme
+ Author:       Signe Anderwald
+ Author URI:   http://localhost/portfoliosigne/
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteenchild
+*/
+
+
+body {
+    background-color: #0000000A;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: #3F3F3F;
+    
+}
